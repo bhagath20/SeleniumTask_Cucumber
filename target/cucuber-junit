@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="100.461666">
+<testcase classname="Test to verify the vehicle details" name="Read vehicle details and assert the vehicle make" time="63.15101">
+<system-out><![CDATA[Given user enters the URL...................................................passed
+When User clicks on start now button........................................passed
+When User enters vehicle "BL06 WJU" number and clicks on continue...........passed
+When User confirms the vehicle details and clicks on continue...............passed
+Then Verify the vehicle make as "HONDA".....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test to verify the vehicle details" name="Read vehicle details and assert the vehicle make 2" time="16.621249">
+<system-out><![CDATA[Given user enters the URL...................................................passed
+When User clicks on start now button........................................passed
+When User enters vehicle "OE07 AAX" number and clicks on continue...........passed
+When User confirms the vehicle details and clicks on continue...............passed
+Then Verify the vehicle make as "FORD"......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test to verify the vehicle details" name="Read vehicle details and assert the vehicle make 3" time="10.714338">
+<system-out><![CDATA[Given user enters the URL...................................................passed
+When User clicks on start now button........................................passed
+When User enters vehicle "AF57 UBD" number and clicks on continue...........passed
+When User confirms the vehicle details and clicks on continue...............passed
+Then Verify the vehicle make as "NISSAN"....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test to verify the vehicle details" name="Read vehicle details and assert the vehicle make 4" time="9.975069">
+<system-out><![CDATA[Given user enters the URL...................................................passed
+When User clicks on start now button........................................passed
+When User enters vehicle "RK05 BZT" number and clicks on continue...........passed
+When User confirms the vehicle details and clicks on continue...............passed
+Then Verify the vehicle make as "SAAB"......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
